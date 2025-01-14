@@ -11,8 +11,8 @@ cap = cv2.VideoCapture(0)
 
 # Uncomment below For Running real-time from Video
 
-# video_path = 'demo.mp4'  # Replace with your video file path
-# cap = cv2.VideoCapture(video_path)  # 0 corresponds to the default webcam, you can change it based on your webcam index
+# video_path = 'demo.mp4'  # Replace with video file path
+# cap = cv2.VideoCapture(video_path)  # 0 corresponds to the default webcam
 
 # YOLO Train model (replace 'best.pt' with actual trained model path)
 model = YOLO('best.pt')
