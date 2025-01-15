@@ -17,7 +17,7 @@ Use the following command to clone the repository:
 
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/pankajc2005/Project_Rail
 ```
 
 2. Navigate to the Project Directory
@@ -25,7 +25,7 @@ Move into the cloned repository folder:
 
 
 ```bash
-cd your-repository
+cd Project_Rail
 ```
 
 3. Install Dependencies
